@@ -2,7 +2,7 @@
 {
     padding: 0px;
     margin:  0px;
-    font-family: Century Gothic;
+    
 }
 body
 {
@@ -38,11 +38,12 @@ ul li a:hover
 .title
 {
     font-size: 100px;
-    color: white;
+    color: yellow;
     position: absolute;
     top: 35%;
     left: 28%;
     opacity: 0.9;
+    font-family: cooper;
 }
 .button
 {
