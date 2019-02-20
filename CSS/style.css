@@ -83,3 +83,15 @@ form
 {
     display: inline-block;
 }
+.facebook:hover
+{
+    color: blue;
+}
+.instagram:hover
+{
+    color: hotpink;
+}
+.twitter:hover
+{
+    color: deepskyblue;
+}
